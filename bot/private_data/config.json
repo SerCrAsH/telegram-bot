@@ -1,0 +1,11 @@
+{
+	"admin": {
+		"id": "111111111",
+		"name": "uid",
+		"username": "uid 1"
+	},
+	"bot": {
+		"id": "@mibot",
+		"token": "mitoken"
+	}
+}

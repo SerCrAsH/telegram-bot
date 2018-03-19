@@ -1,0 +1,7 @@
+colorclass
+addict
+pyTelegramBotAPI
+telebot
+# Otros:
+autopep8
+pylint
